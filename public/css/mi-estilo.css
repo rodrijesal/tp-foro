@@ -6,6 +6,11 @@
 .text-center{
    margin-top: 20px;
    margin-bottom: 15px;
+   font-family: 'Big Shoulders Stencil Display', cursive;
+   font-size: 64px;
+   color:rgb(221, 177, 120);
+   text-shadow: 2px 2px 8px black
+
 }
 
 #lista-publicaciones{
@@ -21,4 +26,22 @@
 .img{
    
     display: block;
+}
+
+
+body{
+    background-color: aqua;
+}
+
+p, h5{
+    font-family: 'Sedgwick Ave Display', cursive;
+
+}
+
+#footer{
+    color:rgb(221, 177, 120);
+    font-size: 20px;
+}
+.nav-link, .navbar-brand{
+    color:rgb(221, 177, 120);
 }
